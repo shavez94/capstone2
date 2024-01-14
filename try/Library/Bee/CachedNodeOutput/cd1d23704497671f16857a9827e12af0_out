@@ -1,0 +1,4 @@
+Packages\com.verasl.water-system\Scripts\Rendering\WaterSystemFeature.cs(19,21): warning CS0618: 'RenderTargetHandle' is obsolete: 'Deprecated in favor of RTHandle'
+Packages\com.verasl.water-system\Scripts\Rendering\WaterSystemFeature.cs(19,52): warning CS0618: 'RenderTargetHandle' is obsolete: 'Deprecated in favor of RTHandle'
+Packages\com.verasl.water-system\Scripts\Rendering\WaterSystemFeature.cs(40,17): warning CS0618: 'ScriptableRenderPass.ConfigureTarget(RenderTargetIdentifier)' is obsolete: 'Use RTHandle for colorAttachment'
+Packages\com.verasl.water-system\Scripts\Rendering\PlanarReflections.cs(254,13): warning CS0618: 'UniversalRenderPipeline.RenderSingleCamera(ScriptableRenderContext, Camera)' is obsolete: 'RenderSingleCamera is obsolete, please use RenderPipeline.SubmiteRenderRequest with UniversalRenderer.SingleCameraRequest as RequestData type'
